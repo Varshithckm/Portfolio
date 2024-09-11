@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "React Portfolio Website",
-    description: "Project 1 description",
+    description: "Developed a portfolio Website using ReactJS and deployed it in Vercel",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/adxthyx/Portfolio-Website/",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Video Sharing Platform",
-    description: "Project 2 description",
+    description: "Developed a user-friendly video sharing MERN app including features like video sharing,subscribing,liking and commenting",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Varshithckm/Video_sharing",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "Campus Hub",
-    description: "Project 3 description",
+    description: "Developed a MERN stack web app for lost and found, connecting seniors and juniors within the college community.Features include blog posting, buying/selling laptops, and sharing academic resources like notes, PPTs, and projects. Enhanced student collaboration and resource sharing",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Varshithckm/Hub_campus",
@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "Assistive Device for Blind using VLM",
-    description: "Project 4 description",
+    description: "The device developed under this project is a mounted spectacles with camera having audio guidance Processing can be done using raspberry pi 4 model or laptop BLIP Vision-Language Model:Provides the capability to understand and describe scenes captured by the camera",
     image: "/images/projects/4.png",
     tag: ["All", "ML"],
     gitUrl: "https://github.com/adxthyx/BLIND_ASSIST_2.0",
