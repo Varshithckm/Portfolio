@@ -11,7 +11,7 @@ const projectsData = [
     description: "Developed a portfolio Website using ReactJS and deployed it in Vercel",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/adxthyx/Portfolio-Website/",
+    gitUrl: "https://github.com/Varshithckm/Portfolio",
     previewUrl: "/",
   },
   {
